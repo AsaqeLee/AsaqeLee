@@ -1,6 +1,6 @@
 # Communication Synchronization with MATLAB
 
-Welcome to my journey of learning communication synchronization, focusing on **blind carrier synchronization** and **QPSK modulation** using MATLAB.
+Welcome to my journey of learning communication synchronization, focusing on **blind synchronization** using MATLAB.
 
 ## Table of Contents
 - [About](#about)
@@ -15,10 +15,10 @@ I am currently exploring various aspects of communication synchronization, parti
 1. **Blind Carrier Synchronization**
    - Synchronization without prior knowledge of the carrier signal.
    
-2. **QPSK Modulation**
+2. **Blind Timing Synchronization**
    - Quadrature Phase Shift Keying used for efficient signal modulation in wireless communication.
    
-3. **MIMO-OSTBC**
+3. **MIMO-OFDM**
    - Orthogonal Space-Time Block Coding (OSTBC) techniques for multiple-input, multiple-output (MIMO) systems.
    
 ## MATLAB Projects
