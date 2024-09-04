@@ -33,7 +33,7 @@ Stay tuned for updates and code examples!
 ## Contact
 Feel free to reach out if you have suggestions, questions, or collaboration ideas!
 
-- **Telegram**: [YourTelegramHandle](https://t.me/asaqelea)
+- **Telegram**: [Asaqe](https://t.me/asaqelea)
 
 
 <!--
