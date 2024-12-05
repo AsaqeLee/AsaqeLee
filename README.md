@@ -18,8 +18,7 @@ Feel free to reach out for suggestions, questions, or collaborations!
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
-### 📫 联系我
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
+
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
@@ -27,8 +26,11 @@ Feel free to reach out for suggestions, questions, or collaborations!
 ![trophy](https://github-profile-trophy.vercel.app/?username=AsaqeLee&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaqeLee&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaqeLee)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsaqeLee)
 
-
+### 📫 联系我
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
 
