@@ -21,7 +21,7 @@ Feel free to reach out for suggestions, questions, or collaborations!
 ### 📫 联系我
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
 
-![3D 提交记录](./profile-3d-contrib/profile-night-green.svg)
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
 ### 🏆 GitHub 奖杯
 ![trophy](https://github-profile-trophy.vercel.app/?username=AsaqeLee&theme=onedark)
