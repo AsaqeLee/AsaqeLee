@@ -14,4 +14,13 @@ Hi there! 👋 I'm a researcher and developer diving deep into **communication s
 ## 💬 Connect with Me
 Feel free to reach out for suggestions, questions, or collaborations!
 
-- **Telegram**: [Asaqe](https://t.me/asaqe66)
+### 📫 联系我
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaqeLee&show_icons=true&theme=radical)
+
+### 🛠 技术栈
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
+
