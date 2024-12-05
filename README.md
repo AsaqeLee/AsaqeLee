@@ -27,3 +27,8 @@ Feel free to reach out for suggestions, questions, or collaborations!
 ![trophy](https://github-profile-trophy.vercel.app/?username=AsaqeLee&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaqeLee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaqeLee)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsaqeLee)
+
+
+
