@@ -1,15 +1,18 @@
-# 🚀 Communication Synchronization & AI in Wireless Systems
+# 🚀 Machine Learning for Communication Systems
 
-Hi there! 👋 I'm a researcher and developer diving deep into **communication synchronization** and leveraging **deep learning** to tackle challenges in wireless communication systems. My primary tools include **C++**, **Python**, and **MATLAB**. 🌐
+Hi there! 👋 I'm a researcher and developer focusing on **machine learning** to solve problems in wireless communication and beyond. My primary tools include **C++**, **Python**, and **MATLAB**. 🌐
 
 ## 🔍 Research Interests
-- **Blind Synchronization**: Achieving carrier and timing synchronization without prior signal knowledge.
-- **MIMO-OFDM Systems**: Harnessing Orthogonal Space-Time Block Coding (OSTBC) for next-gen wireless systems.
-- **AI in Communication**: Applying deep learning to optimize channel estimation, signal detection, and more.
+- **Signal Modulation Classification**: Using deep learning to automatically identify modulation schemes (AM, FM, QAM, PSK, etc.) from raw waveform data.
+- **Interference Detection & Identification**: Applying neural networks to detect, classify, and mitigate various types of interference in communication channels.
+- **AI-Driven Channel Estimation**: Leveraging convolutional and recurrent architectures for more robust channel state information (CSI) in dynamic environments.
+- **Emerging Topics in CS**: Exploring graph neural networks, federated learning, and reinforcement learning for networking and communication applications.
 
 ## 🛠️ Projects
-- **Blind Synchronization Algorithms**: Developing cutting-edge algorithms for MIMO systems.
-- **AI-Powered Communication**: Using neural networks to enhance wireless system performance.
+- **Modulation Recognition Network**: Developed a CNN-based classifier achieving >95% accuracy on synthetic and real-world datasets.
+- **Interference Signature Detection**: Implemented an LSTM pipeline to detect and classify jamming and background interference signals in real time.
+- **Hybrid ML-MATLAB Simulation**: Integrated Python-based AI modules with MATLAB/Simulink for end-to-end system-level evaluations.
+- **CS Learning & Exploration**: Investigating novel architectures in graph neural networks and federated learning for distributed communication scenarios.
 
 ## 💬 Connect with Me
 Feel free to reach out for suggestions, questions, or collaborations!
@@ -19,18 +22,5 @@ Feel free to reach out for suggestions, questions, or collaborations!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
 
-
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
-
-### 🏆 GitHub 奖杯
-![trophy](https://github-profile-trophy.vercel.app/?username=AsaqeLee&theme=onedark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaqeLee&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaqeLee)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsaqeLee)
-
 ### 📫 联系我
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
-
