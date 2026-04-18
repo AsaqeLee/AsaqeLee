@@ -18,7 +18,7 @@ Hi there! 👋 I'm a researcher and developer focusing on **machine learning** t
 Feel free to reach out for suggestions, questions, or collaborations!
 
 ### 🛠 技术栈
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
 
