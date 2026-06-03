@@ -1,9 +1,9 @@
 # Asaqe Lee
 
 **Communication Engineering @ Xidian University**  
-Building machine-learning methods for wireless communications, modulation recognition, interference analysis, and signal intelligence.
+Focused on communication systems, signal intelligence, and machine-learning workflows, while building toward Go backend engineering.
 
-`Python` · `MATLAB` · `C++` · `Signal Processing` · `Deep Learning`
+`Go` · `Python` · `C++` · `MATLAB`
 
 ## Focus Areas
 - Modulation recognition from raw I/Q signals
@@ -18,8 +18,8 @@ Building machine-learning methods for wireless communications, modulation recogn
 - [Communication-System](https://github.com/AsaqeLee/Communication-System) — MATLAB-based communication-system simulations covering spread-spectrum, OFDM, and interference analysis.
 
 ## Current Interests
+- Go backend engineering and systems-oriented development
 - Graph neural networks for wireless networks
-- Federated learning for distributed communication scenarios
 - AI-assisted spectrum analysis and interference mitigation
 
 ## Links
