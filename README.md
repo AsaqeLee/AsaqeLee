@@ -1,32 +1,35 @@
 # Asaqe Lee
 
-**Communication Engineering @ Xidian University**  
-Focused on communication systems, signal intelligence, and machine-learning workflows, while building toward Go backend engineering.
+**Go Backend Engineering · Workflow Systems · Communication Systems**
 
-`Go` · `Python` · `C++` · `MATLAB`
+I build backend systems with explicit state transitions, pragmatic persistence layers, and engineering-first structure. My current focus is Go services, action-based workflow APIs, and recoverable system design.
 
-## Focus Areas
-- Modulation recognition from raw I/Q signals
-- Interference detection and spectrum intelligence
-- Learning-based channel estimation for communication systems
-- Reproducible simulation workflows for signal ML research
+`Go` · `Gin` · `MongoDB` · `Python` · `C++` · `MATLAB`
 
-## Selected Projects
-- [NOMA](https://github.com/AsaqeLee/NOMA) — User grouping and power allocation simulation for non-orthogonal multiple access systems.
+## Current Focus
+- Go backend development for workflow and task systems
+- API design, repository abstractions, and lifecycle state modeling
+- Testable, maintainable, and recoverable engineering workflows
+
+## Flagship Project
+- [TaskFlow](https://github.com/AsaqeLee/taskflow) — Go backend for task lifecycle and collaboration workflows, with Gin, memory/Mongo dual persistence, audit logs, and action-based APIs.
+
+## Technical Background
+- Communication systems and signal intelligence
+- Modulation recognition and interference analysis
+- Simulation-driven ML experimentation for wireless systems
+
+## Selected Repositories
+- [TaskFlow](https://github.com/AsaqeLee/taskflow) — Workflow-oriented Go backend project with structured state transitions and persistence abstractions.
+- [NOMA](https://github.com/AsaqeLee/NOMA) — User grouping and power allocation simulations for non-orthogonal multiple access systems.
 - [Signal](https://github.com/AsaqeLee/Signal) — Deep-learning workflows for modulation classification from raw communication signals.
 - [ml-signal-dataset-builder-with-config](https://github.com/AsaqeLee/ml-signal-dataset-builder-with-config) — Configurable wireless-signal dataset builder with augmentation for ML experiments.
-- [Communication-System](https://github.com/AsaqeLee/Communication-System) — MATLAB-based communication-system simulations covering spread-spectrum, OFDM, and interference analysis.
 
-## Current Interests
-- Go backend engineering and systems-oriented development
-- Graph neural networks for wireless networks
-- AI-assisted spectrum analysis and interference mitigation
+## Engineering Principles
+- Clear state semantics
+- Practical persistence abstractions
+- Verifiable engineering workflows
 
 ## Links
 - Website: [asaqe.site](https://asaqe.site/)
-- Telegram: [@asaqe66](https://t.me/asaqe66)
 - Location: Xi'an, China
-
----
-
-If you're interested in research collaboration, signal-processing workflows, or communication-system ML applications, feel free to reach out.
