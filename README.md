@@ -1,26 +1,32 @@
-# 🚀 Machine Learning for Communication Systems
+# Asaqe Lee
 
-Hi there! 👋 I'm a researcher and developer focusing on **machine learning** to solve problems in wireless communication and beyond. My primary tools include **C++**, **Python**, and **MATLAB**. 🌐
+**Communication Engineering @ Xidian University**  
+Building machine-learning methods for wireless communications, modulation recognition, interference analysis, and signal intelligence.
 
-## 🔍 Research Interests
-- **Signal Modulation Classification**: Using deep learning to automatically identify modulation schemes (AM, FM, QAM, PSK, etc.) from raw waveform data.
-- **Interference Detection & Identification**: Applying neural networks to detect, classify, and mitigate various types of interference in communication channels.
-- **AI-Driven Channel Estimation**: Leveraging convolutional and recurrent architectures for more robust channel state information (CSI) in dynamic environments.
-- **Emerging Topics in CS**: Exploring graph neural networks, federated learning, and reinforcement learning for networking and communication applications.
+`Python` · `MATLAB` · `C++` · `Signal Processing` · `Deep Learning`
 
-## 🛠️ Projects
-- **Modulation Recognition Network**: Developed a CNN-based classifier achieving >95% accuracy on synthetic and real-world datasets.
-- **Interference Signature Detection**: Implemented an LSTM pipeline to detect and classify jamming and background interference signals in real time.
-- **Hybrid ML-MATLAB Simulation**: Integrated Python-based AI modules with MATLAB/Simulink for end-to-end system-level evaluations.
-- **CS Learning & Exploration**: Investigating novel architectures in graph neural networks and federated learning for distributed communication scenarios.
+## Focus Areas
+- Modulation recognition from raw I/Q signals
+- Interference detection and spectrum intelligence
+- Learning-based channel estimation for communication systems
+- Reproducible simulation workflows for signal ML research
 
-## 💬 Connect with Me
-Feel free to reach out for suggestions, questions, or collaborations!
+## Selected Projects
+- [NOMA](https://github.com/AsaqeLee/NOMA) — User grouping and power allocation simulation for non-orthogonal multiple access systems.
+- [Signal](https://github.com/AsaqeLee/Signal) — Deep-learning workflows for modulation classification from raw communication signals.
+- [ml-signal-dataset-builder-with-config](https://github.com/AsaqeLee/ml-signal-dataset-builder-with-config) — Configurable wireless-signal dataset builder with augmentation for ML experiments.
+- [Communication-System](https://github.com/AsaqeLee/Communication-System) — MATLAB-based communication-system simulations covering spread-spectrum, OFDM, and interference analysis.
 
-### 🛠 技术栈
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks)
+## Current Interests
+- Graph neural networks for wireless networks
+- Federated learning for distributed communication scenarios
+- AI-assisted spectrum analysis and interference mitigation
 
-### 📫 联系我
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asaqe66)
+## Links
+- Website: [asaqe.site](https://asaqe.site/)
+- Telegram: [@asaqe66](https://t.me/asaqe66)
+- Location: Xi'an, China
+
+---
+
+If you're interested in research collaboration, signal-processing workflows, or communication-system ML applications, feel free to reach out.
