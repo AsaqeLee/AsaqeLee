@@ -1,34 +1,36 @@
 # Asaqe Lee
 
-**Go Backend Engineering · Workflow Systems · Communication Systems**
+**AI-Augmented Fullstack Signal & Backend Engineer**
 
-I work on backend systems where state is explicit, persistence is practical, and workflows are verifiable. My current focus is Go services, lifecycle-oriented APIs, and recoverable engineering paths for long-lived systems.
+I bridge the gap between digital signal intelligence and robust system architectures. I build backend systems where state is explicit, persistence is practical, and workflows are augmented by multi-agent AI systems.
 
-`Go` · `Gin` · `MongoDB` · `Python` · `C++` · `MATLAB`
+`Go` · `Python` · `C++` · `MATLAB` · `Gin` · `MongoDB` · `Wireless Systems`
 
-## Core Focus
-- Go workflow and task systems
-- API design, repository boundaries, and lifecycle modeling
-- Testable, maintainable, and recoverable service architecture
+## 🚀 The AI-Augmented Stack
+I don't just write code; I orchestrate it. My engineering workflow integrates:
+- **Multi-Agent Peer Consultation:** Using independent AI systems (Claude/Gemini) for blind architectural review.
+- **Deterministic AI Workflows:** Building self-healing tools with structured JSON schemas and verifiable paths.
 
-## Flagship Project
-- [TaskFlow](https://github.com/AsaqeLee/taskflow) — Go workflow backend with action-based task lifecycle APIs, memory/Mongo dual persistence, audit logging, and structured state transitions.
+## 📡 Signal Intelligence & Wireless
+- **Modulation Recognition:** Deep-learning workflows for real-time signal classification.
+- **Spectrum Semanticization:** Transforming raw electromagnetic data into intelligent sensing workflows.
+- **Performance Analysis:** NOMA user grouping and power allocation simulations.
 
-## Technical Background
-- Communication systems and signal intelligence
-- Modulation recognition and interference analysis
-- Simulation-driven ML workflows for wireless systems
+## 🛠 Featured Repositories
 
-## Selected Repositories
-- [TaskFlow](https://github.com/AsaqeLee/taskflow) — Workflow-oriented Go backend project with explicit state transitions and persistence abstractions.
-- [Signal](https://github.com/AsaqeLee/Signal) — Deep-learning workflows for modulation classification from raw communication signals.
-- [NOMA](https://github.com/AsaqeLee/NOMA) — User grouping and power allocation simulations for non-orthogonal multiple access systems.
+### [TaskFlow](https://github.com/AsaqeLee/taskflow)
+**Go Workflow Engine | DDD-Compliant | Dual-Persistence**
+A production-grade task lifecycle backend. Featuring a hardened state machine, audit logging, and a repository-pattern-driven `memory` + `mongo` persistence layer for rapid DX and reliable deployment.
 
-## Engineering Principles
-- Clear state semantics
-- Practical abstractions
-- Verifiable workflows
+### [Peer-Consult](https://github.com/AsaqeLee/peer-consult)
+**Meta-Engineering | Multi-Agent Skill | Deterministic AI**
+A multi-agent consultation framework that collects independent, blind advice from multiple LLMs to minimize hallucination and solve complex architectural bottlenecks.
 
-## Links
+## 📜 Engineering Principles
+- **Explicit State Semantics:** Every transition must be verifiable.
+- **Practical Abstractions:** Design for the 6-month-later-self (Low recovery cost).
+- **Security-First AI:** Deterministic outputs via self-healing schemas.
+
+## 🔗 Connect
 - Website: [asaqe.site](https://asaqe.site/)
 - Location: Xi'an, China
