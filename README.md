@@ -1,36 +1,32 @@
 # Asaqe Lee
 
-**AI-Augmented Fullstack Signal & Backend Engineer**
+Go backend engineering · Workflow systems · Signal intelligence
 
-I bridge the gap between digital signal intelligence and robust system architectures. I build backend systems where state is explicit, persistence is practical, and workflows are augmented by multi-agent AI systems.
+I build backend systems where state is explicit, persistence is practical, and workflows stay easy to reason about. On the side I work on wireless and signal-processing projects from my studies at Xidian University.
 
-`Go` · `Python` · `C++` · `MATLAB` · `Gin` · `MongoDB` · `Wireless Systems`
+`Go` · `Python` · `MATLAB` · `Gin` · `MongoDB`
 
-## 🚀 The AI-Augmented Stack
-I don't just write code; I orchestrate it. My engineering workflow integrates:
-- **Multi-Agent Peer Consultation:** Using independent AI systems (Claude/Gemini) for blind architectural review.
-- **Deterministic AI Workflows:** Building self-healing tools with structured JSON schemas and verifiable paths.
-
-## 📡 Signal Intelligence & Wireless
-- **Modulation Recognition:** Deep-learning workflows for real-time signal classification.
-- **Spectrum Semanticization:** Transforming raw electromagnetic data into intelligent sensing workflows.
-- **Performance Analysis:** NOMA user grouping and power allocation simulations.
-
-## 🛠 Featured Repositories
+## Featured work
 
 ### [TaskFlow](https://github.com/AsaqeLee/taskflow)
-**Go Workflow Engine | DDD-Compliant | Dual-Persistence**
-A production-grade task lifecycle backend. Featuring a hardened state machine, audit logging, and a repository-pattern-driven `memory` + `mongo` persistence layer for rapid DX and reliable deployment.
+Go task-lifecycle API with an explicit state machine, audit log, and dual persistence (`memory` + `mongo`). Intranet-oriented MVP; currently in maintenance mode.
 
-### [Peer-Consult](https://github.com/AsaqeLee/peer-consult)
-**Meta-Engineering | Multi-Agent Skill | Deterministic AI**
-A multi-agent consultation framework that collects independent, blind advice from multiple LLMs to minimize hallucination and solve complex architectural bottlenecks.
+### [agent_go](https://github.com/AsaqeLee/agent_go)
+Pure-stdlib Go agent runtime: tool loop, RAG/MCP-style adapters, and an HTTP serve path for local experiments.
 
-## 📜 Engineering Principles
-- **Explicit State Semantics:** Every transition must be verifiable.
-- **Practical Abstractions:** Design for the 6-month-later-self (Low recovery cost).
-- **Security-First AI:** Deterministic outputs via self-healing schemas.
+### [peer-consult](https://github.com/AsaqeLee/peer-consult)
+Multi-agent consultation skill that gathers independent advice from several LLMs before you commit to an architecture call.
 
-## 🔗 Connect
+### [NOMA](https://github.com/AsaqeLee/NOMA)
+MATLAB simulations for NOMA user grouping and power allocation (most starred repo here).
+
+## What I care about
+
+- Explicit state: every transition should be checkable
+- Practical abstractions: cheap to recover from six months later
+- Honest scope: say what the system is for, and what it is not
+
+## Connect
+
 - Website: [asaqe.site](https://asaqe.site/)
 - Location: Xi'an, China
